@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Quickfix</string>
+    <string name="quickfix">Quickfix</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="title_activity_main7">Main7Activity</string>
+    <string-array name="names">
+        <item>AGRA</item>
+        <item>DELHI</item>
+        <item>BHOPAL</item>
+        <item>CHENNAI</item>
+        <item>MUMBAI</item>
+
+
+    </string-array>
+    <string name="title_activity_main8">Main8Activity</string>
+</resources>
